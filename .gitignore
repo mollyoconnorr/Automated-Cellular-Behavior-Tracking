@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+*.mp4
+
+# Large local data
+InputImages/
+TestingOutput/
